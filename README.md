@@ -1,4 +1,4 @@
-# Verilog-RISC-V-Processor
+# Verilog RISC-V Processor
 
 ## Description
 
