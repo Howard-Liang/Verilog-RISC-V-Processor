@@ -26,7 +26,7 @@ and read the generated fsdb file.
 
 ## Architecture
 
-![alt text](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)
+![alt text](https://github.com/Howard-Liang/Single-Cycle-RISC-V/blob/main/image/architecture.JPG)
 
 ## Authors
 
