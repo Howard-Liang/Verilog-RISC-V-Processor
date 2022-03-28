@@ -1,4 +1,4 @@
-# Single-Cycle-RISC-V
+# Verilog-RISC-V-Processor
 
 ## Description
 
